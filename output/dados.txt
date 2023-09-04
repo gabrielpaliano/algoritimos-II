@@ -1,5 +1,0 @@
-Nome	Idade
-Gabriel Paliano	22
-Nome	Idade
-Gabriel Paliano	22
-Rafael Paliano	21
